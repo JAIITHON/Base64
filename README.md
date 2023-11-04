@@ -30,7 +30,7 @@ License -> https://github.com/DeccanBotz/Base64/blob/main/LICENSE
 ### Deploy to Heroku
 * [Tutorial](https://youtu.be/GDqWA32N97o)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DeccanBotz/Base64)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JAIITHON/Base64)
 
 ### Commands
 ```
